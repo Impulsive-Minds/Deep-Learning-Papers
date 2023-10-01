@@ -70,7 +70,9 @@ This repository contains a collection of deep learning papers, organized by task
 
 | Title | Date | Paper | Code |
 |---|---|---|---|
-| A Neural Algorithm of Artistic Style | _02 Sep 2015_ | [arxiv](https://arxiv.org/pdf/1508.06576.pdf) |  |
+| Instance Normalization: The Missing Ingredient for Fast Stylization | _06 Nov 2017_ | [arxiv](https://arxiv.org/pdf/1607.08022.pdf) | -- |
+| Perceptual Losses for Real-Time Style Transfer and Super-Resolution | _27 Mar 2016_ | [arxiv](https://arxiv.org/pdf/1603.08155.pdf) | -- |
+| A Neural Algorithm of Artistic Style | _02 Sep 2015_ | [arxiv](https://arxiv.org/pdf/1508.06576.pdf) | -- |
 
 ### Super Resolution
 
