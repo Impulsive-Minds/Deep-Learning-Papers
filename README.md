@@ -45,19 +45,20 @@ This repository contains a collection of deep learning papers, organized by task
 
 |Title|Date|Paper|Code|
 |---|---|---|---|
-| Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition | _24 oct 2016_ |  |  | 
-| OpenFace: A general-purpose face recognition library with mobile applications | _1 jun 2016_ |  |  | 
-| Emotion Recognition in the Wild via Convolutional Neural Networks and Mapped Binary Patterns | _9 nov 2015_ |  |  | 
-| Deep Face Recognition | _7 sep 2015_ |  |  | 
-| Compact Convolutional Neural Network Cascade for Face Detection | _6 aug 2015_ | [arxiv](https://arxiv.org/pdf/1508.01292) |  | 
-| Learning Robust Deep Face Representation | _17 jul 2015_ | [arxiv](https://arxiv.org/pdf/1507.04844) |  | 
-| Facenet: A unified embedding for face recognition and clustering | _17 jun 2015_ | [arxiv](https://arxiv.org/pdf/1503.03832.pdf)|  | 
-| Multi-view Face Detection Using Deep Convolutional Neural Networks | _10 feb 2015_ | [arxiv](https://arxiv.org/pdf/1502.02766) |  | 
+| Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition | _24 Oct 2016_ |  | -- | 
+| OpenFace: A general-purpose face recognition library with mobile applications | _1 Jun 2016_ |  | -- | 
+| Emotion Recognition in the Wild via Convolutional Neural Networks and Mapped Binary Patterns | _9 Nov 2015_ |  | -- | 
+| Deep Face Recognition | _7 Sep 2015_ |  | -- | 
+| Compact Convolutional Neural Network Cascade for Face Detection | _6 Aug 2015_ | [arxiv](https://arxiv.org/pdf/1508.01292) | -- | 
+| Learning Robust Deep Face Representation | _17 Jul 2015_ | [arxiv](https://arxiv.org/pdf/1507.04844) | -- | 
+| Facenet: A unified embedding for face recognition and clustering | _17 Jun 2015_ | [arxiv](https://arxiv.org/pdf/1503.03832.pdf)| -- | 
+| Multi-view Face Detection Using Deep Convolutional Neural Networks | _10 Feb 2015_ | [arxiv](https://arxiv.org/pdf/1502.02766) | -- | 
 
 ### Object Recognition
 | Title | Date | Paper | Code |
 |---|---|---|---|
 | You Only Look Once : Unified, Real-Time Object Detection | _9 Apr 2016_ | [arxiv](https://arxiv.org/pdf/1506.02640.pdf) | -- |
+
 ## Natural Language Processing (NLP)
 
 ## Audio
