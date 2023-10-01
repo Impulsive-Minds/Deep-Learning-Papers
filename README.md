@@ -45,19 +45,19 @@ This repository contains a collection of deep learning papers, organized by task
 
 |Title|Date|Paper|Code|
 |---|---|---|---|
+| Deep Face Recognition: A Survey | _1 Aug 2020_ | [arxiv](https://arxiv.org/pdf/1804.06655.pdf) | -- | 
 | Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition | _24 Oct 2016_ |  | -- | 
 | OpenFace: A general-purpose face recognition library with mobile applications | _1 Jun 2016_ |  | -- | 
 | Emotion Recognition in the Wild via Convolutional Neural Networks and Mapped Binary Patterns | _9 Nov 2015_ |  | -- | 
-| Deep Face Recognition | _7 Sep 2015_ | [arxiv](https://arxiv.org/pdf/1804.06655.pdf) | -- | 
 | Compact Convolutional Neural Network Cascade for Face Detection | _6 Aug 2015_ | [arxiv](https://arxiv.org/pdf/1508.01292) | -- | 
 | Learning Robust Deep Face Representation | _17 Jul 2015_ | [arxiv](https://arxiv.org/pdf/1507.04844) | -- | 
 | Facenet: A unified embedding for face recognition and clustering | _17 Jun 2015_ | [arxiv](https://arxiv.org/pdf/1503.03832.pdf)| -- | 
 | Multi-view Face Detection Using Deep Convolutional Neural Networks | _20 Apr 2015_ | [arxiv](https://arxiv.org/pdf/1502.02766) | -- | 
-
+| DeepFace: Closing the Gap to Human-Level Performance in Face Verification | _2014_ | [paper](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf) | -- |
 ### Object Recognition
 | Title | Date | Paper | Code |
 |---|---|---|---|
-| You Only Look Once : Unified, Real-Time Object Detection (YOLO_v1) | _9 Apr 2016_ | [arxiv](https://arxiv.org/pdf/1506.02640.pdf) | -- |
+| You Only Look Once : Unified, Real-Time Object Detection | _9 Apr 2016_ | [arxiv](https://arxiv.org/pdf/1506.02640.pdf) | -- |
 
 
 ### Style Transfer
