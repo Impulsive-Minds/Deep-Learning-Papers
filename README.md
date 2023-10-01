@@ -58,6 +58,24 @@ This repository contains a collection of deep learning papers, organized by task
 | Title | Date | Paper | Code |
 |---|---|---|---|
 | You Only Look Once : Unified, Real-Time Object Detection | _9 Apr 2016_ | [arxiv](https://arxiv.org/pdf/1506.02640.pdf) | -- |
+
+### Style Transfer
+
+### Super Resolution
+
+### Image Segmentation
+
+### Pose Estimation
+
+### Vision Representation
+
+### Depth Perception
+
+### Image Captioning
+
+### Image Synthesis
+
+### 3D Reconstruction
 ## Natural Language Processing (NLP)
 
 ## Audio
