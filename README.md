@@ -5,11 +5,27 @@ This repository contains a collection of deep learning papers, organized by task
 # Table of Contents
 
 1. [Computer Vision](#computer-vision)
+
+    1.1. [Image Classification](#image-classification)
+    1.2. [Facial Recognition](#facial-recognition)
+    1.3. [Object Recognition](#object-recognition)
+    1.4. [Style Transfer](#style-transfer)
+    1.5. [Super Resolution](#super-resolution)
+    1.6. [Image Segmentation](#image-segmentation)
+    1.7. [Pose Estimation](#pose-estimation)
+    1.8. [Vision Representation](#vision-representation)
+    1.9. [Depth Perception](#depth-perception)
+    1.10. [Image Captioning](#image-captioning)
+    1.11. [Image Synthesis](#image-synthesis)
+    1.12. [3D Reconstruction](#3d-reconstruction)
+
 2. [Natural Language Processing (NLP)](#natural-language-processing)
 3. [Audio](#audio)
 4. [Miscellaneous](#miscellaneous)
 
 ## Computer Vision
+
+### Image Classification
 
 ## Natural Language Processing (NLP)
 
