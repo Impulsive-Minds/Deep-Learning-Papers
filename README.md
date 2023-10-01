@@ -40,7 +40,7 @@ This repository contains a collection of deep learning papers, organized by task
 
 | Title | Date | Paper | Code |
 |---|---|---|---|
-
+| Very Deep Convolutional Networks For Large-Scale Image Recognition (VGG) | _10 Apr 2015_ | [arxiv](https://arxiv.org/pdf/1409.1556.pdf) | -- |
 ### Facial Recognition
 
 |Title|Date|Paper|Code|
