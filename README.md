@@ -52,7 +52,7 @@ This repository contains a collection of deep learning papers, organized by task
 | Compact Convolutional Neural Network Cascade for Face Detection | _6 Aug 2015_ | [arxiv](https://arxiv.org/pdf/1508.01292) | -- | 
 | Learning Robust Deep Face Representation | _17 Jul 2015_ | [arxiv](https://arxiv.org/pdf/1507.04844) | -- | 
 | Facenet: A unified embedding for face recognition and clustering | _17 Jun 2015_ | [arxiv](https://arxiv.org/pdf/1503.03832.pdf)| -- | 
-| Multi-view Face Detection Using Deep Convolutional Neural Networks | _10 Feb 2015_ | [arxiv](https://arxiv.org/pdf/1502.02766) | -- | 
+| Multi-view Face Detection Using Deep Convolutional Neural Networks | _20 Apr 2015_ | [arxiv](https://arxiv.org/pdf/1502.02766) | -- | 
 
 ### Object Recognition
 | Title | Date | Paper | Code |
