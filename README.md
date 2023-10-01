@@ -45,10 +45,8 @@ This repository contains a collection of deep learning papers, organized by task
 
 |Title|Date|Paper|Code|
 |---|---|---|---|
-| Deep Face Recognition: A Survey | _1 Aug 2020_ | [arxiv](https://arxiv.org/pdf/1804.06655.pdf) | -- | 
-| Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition | _24 Oct 2016_ |  | -- | 
-| OpenFace: A general-purpose face recognition library with mobile applications | _1 Jun 2016_ |  | -- | 
-| Emotion Recognition in the Wild via Convolutional Neural Networks and Mapped Binary Patterns | _9 Nov 2015_ |  | -- | 
+| Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition | _24 Oct 2016_ | [paper](https://users.ece.cmu.edu/~lbauer/papers/2016/ccs2016-face-recognition.pdf) | -- | 
+| OpenFace: A general-purpose face recognition library with mobile applications | _Jun 2016_ | [paper](https://elijah.cs.cmu.edu/DOCS/CMU-CS-16-118.pdf) | -- |
 | Compact Convolutional Neural Network Cascade for Face Detection | _6 Aug 2015_ | [arxiv](https://arxiv.org/pdf/1508.01292) | -- | 
 | Learning Robust Deep Face Representation | _17 Jul 2015_ | [arxiv](https://arxiv.org/pdf/1507.04844) | -- | 
 | Facenet: A unified embedding for face recognition and clustering | _17 Jun 2015_ | [arxiv](https://arxiv.org/pdf/1503.03832.pdf)| -- | 
