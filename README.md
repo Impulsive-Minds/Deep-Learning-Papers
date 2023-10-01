@@ -66,7 +66,6 @@ This repository contains a collection of deep learning papers, organized by task
 | YOLO9000 : Better, Faster, Stronger (YOLO_v2) | _25 Dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.08242.pdf) | -- |
 | You Only Look Once : Unified, Real-Time Object Detection (YOLO_v1) | _9 Apr 2016_ | [arxiv](https://arxiv.org/pdf/1506.02640.pdf) | -- |
 
-
 ### Style Transfer
 
 ### Super Resolution
