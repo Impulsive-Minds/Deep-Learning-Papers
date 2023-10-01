@@ -27,7 +27,7 @@ This repository contains a collection of deep learning papers, organized by task
     1.10. [Image Captioning](#image-captioning)
     
     1.11. [Image Synthesis](#image-synthesis)
-    
+
     1.12. [3D Reconstruction](#3d-reconstruction)
 
 2. [Natural Language Processing (NLP)](#natural-language-processing)
@@ -37,6 +37,9 @@ This repository contains a collection of deep learning papers, organized by task
 ## Computer Vision
 
 ### Image Classification
+
+| Title | Date | Paper | Code |
+|---|---|---|---|
 
 ## Natural Language Processing (NLP)
 
