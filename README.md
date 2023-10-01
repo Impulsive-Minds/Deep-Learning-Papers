@@ -52,7 +52,9 @@ This repository contains a collection of deep learning papers, organized by task
 | Facenet: A unified embedding for face recognition and clustering | _17 Jun 2015_ | [arxiv](https://arxiv.org/pdf/1503.03832.pdf)| -- | 
 | Multi-view Face Detection Using Deep Convolutional Neural Networks | _20 Apr 2015_ | [arxiv](https://arxiv.org/pdf/1502.02766) | -- | 
 | DeepFace: Closing the Gap to Human-Level Performance in Face Verification | _2014_ | [paper](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf) | -- |
+
 ### Object Recognition
+
 | Title | Date | Paper | Code |
 |---|---|---|---|
 | You Only Look Once : Unified, Real-Time Object Detection | _9 Apr 2016_ | [arxiv](https://arxiv.org/pdf/1506.02640.pdf) | -- |
