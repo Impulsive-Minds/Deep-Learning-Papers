@@ -41,6 +41,10 @@ This repository contains a collection of deep learning papers, organized by task
 | Title | Date | Paper | Code |
 |---|---|---|---|
 
+### Object Recognition
+| Title | Date | Paper | Code |
+|---|---|---|---|
+| You Only Look Once : Unified, Real-Time Object Detection | _9 Apr 2016_ | [arxiv](https://arxiv.org/pdf/1506.02640.pdf) | -- |
 ## Natural Language Processing (NLP)
 
 ## Audio
