@@ -70,7 +70,11 @@ This repository contains a collection of deep learning papers, organized by task
 
 | Title | Date | Paper | Code |
 |---|---|---|---|
+| The Contextual Loss for Image Transformation with Non-Aligned Data | _18 July 2018_ | [arxiv](https://arxiv.org/pdf/1803.02077.pdf) | -- |
 | Instance Normalization: The Missing Ingredient for Fast Stylization | _06 Nov 2017_ | [arxiv](https://arxiv.org/pdf/1607.08022.pdf) | -- |
+| Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization | _30 July 2017_ | [arxiv](https://arxiv.org/pdf/1703.06868.pdf) | -- |
+| Deep Photo Style Transfer | _11 Apr 2017_ | [arxiv](https://arxiv.org/pdf/1703.07511.pdf) | -- |
+| A Learned Representation for Artistic Style | _09 Feb 2017_ | [arxiv](https://arxiv.org/pdf/1610.07629.pdf) | -- |
 | Perceptual Losses for Real-Time Style Transfer and Super-Resolution | _27 Mar 2016_ | [arxiv](https://arxiv.org/pdf/1603.08155.pdf) | -- |
 | A Neural Algorithm of Artistic Style | _02 Sep 2015_ | [arxiv](https://arxiv.org/pdf/1508.06576.pdf) | -- |
 
