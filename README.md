@@ -40,7 +40,7 @@ This repository contains a collection of deep learning papers, organized by task
 
 | Title | Date | Paper | Code |
 |---|---|---|---|
-
+| Very Deep Convolutional Networks For Large-Scale Image Recognition (VGG) | _10 Apr 2015_ | [arxiv](https://arxiv.org/pdf/1409.1556.pdf) | -- |
 ### Facial Recognition
 
 |Title|Date|Paper|Code|
@@ -57,7 +57,14 @@ This repository contains a collection of deep learning papers, organized by task
 
 | Title | Date | Paper | Code |
 |---|---|---|---|
-| You Only Look Once : Unified, Real-Time Object Detection | _9 Apr 2016_ | [arxiv](https://arxiv.org/pdf/1506.02640.pdf) | -- |
+| A Comprehensive Review Of YOLO : From YOLOV1 And Beyond (YOLO_v8) | _7 Aug 2023_ | [arxiv](https://arxiv.org/pdf/2304.00501.pdf) | -- |
+| YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors | _6 Jul 2022_ | [arxiv](https://arxiv.org/pdf/2207.02696.pdf) | -- |
+| YOLOv6 : A Single-Stage Object Detection Framework for Industrial Applications (YOLO_v6) | _7 Sep 2022_ | [arxiv](https://arxiv.org/pdf/2209.02976.pdf) | -- |
+| TPH-YOLOv5 : Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-captured Scenarios | _26 Aug 2021_ | [arxiv](https://arxiv.org/pdf/2108.11539.pdf) | -- |
+| YOLOv4 : Optimal Speed and Accuracy of Object Detection | _23 Apr 2020_ | [arxiv](https://arxiv.org/pdf/2004.10934.pdf) | -- |
+| YOLOv3 : An Incremental Improvement | _8 Apr 2018_ | [arxiv](https://arxiv.org/pdf/1804.02767.pdf) | -- |
+| YOLO9000 : Better, Faster, Stronger (YOLO_v2) | _25 Dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.08242.pdf) | -- |
+| You Only Look Once : Unified, Real-Time Object Detection (YOLO_v1) | _9 Apr 2016_ | [arxiv](https://arxiv.org/pdf/1506.02640.pdf) | -- |
 
 
 ### Style Transfer
