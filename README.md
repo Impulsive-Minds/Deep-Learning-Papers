@@ -68,6 +68,10 @@ This repository contains a collection of deep learning papers, organized by task
 
 ### Style Transfer
 
+| Title | Date | Paper | Code |
+|---|---|---|---|
+| A Neural Algorithm of Artistic Style | _02 Sep 2015_ | [arxiv](https://arxiv.org/pdf/1508.06576.pdf) |  |
+
 ### Super Resolution
 
 ### Image Segmentation
