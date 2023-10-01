@@ -57,7 +57,7 @@ This repository contains a collection of deep learning papers, organized by task
 ### Object Recognition
 | Title | Date | Paper | Code |
 |---|---|---|---|
-| You Only Look Once : Unified, Real-Time Object Detection | _9 Apr 2016_ | [arxiv](https://arxiv.org/pdf/1506.02640.pdf) | -- |
+| You Only Look Once : Unified, Real-Time Object Detection (YOLO_v1) | _9 Apr 2016_ | [arxiv](https://arxiv.org/pdf/1506.02640.pdf) | -- |
 
 
 ### Style Transfer
