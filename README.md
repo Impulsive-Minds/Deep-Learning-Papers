@@ -93,6 +93,7 @@ This repository contains a collection of deep learning papers, organized by task
 ### Image Synthesis
 
 ### 3D Reconstruction
+
 ## Natural Language Processing (NLP)
 
 ## Audio
