@@ -126,6 +126,10 @@ This repository contains a collection of deep learning papers, organized by task
 
 ### Vision Representation
 
+| Title | Date | Paper | Code |
+|---|---|---|---|
+| VisualBERT: A Simple and Performant Baseline for Vision and Language | _09 Aug 2019_ | [arxiv](https://arxiv.org/pdf/1908.03557.pdf) | -- |
+
 
 ### Depth Perception
 
