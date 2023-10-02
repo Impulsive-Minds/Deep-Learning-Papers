@@ -140,6 +140,19 @@ This repository contains a collection of deep learning papers, organized by task
 
 ### Image Captioning
 
+|Title|Date|Paper|Code|
+|---|---|---|---|
+| Detecting and Recognizing Human-Object Interactions | _27 Mar 2018_ | [arxiv](https://arxiv.org/pdf/1704.07333) |  | 
+| Actor-Critic Sequence Training for Image Captioning | _28 Nov 2017_ | [arxiv](https://arxiv.org/pdf/1706.09601) |  | 
+| Self-critical Sequence Training for Image Captioning | _16 Nov 2017_ | [arxiv](https://arxiv.org/pdf/1612.00563) |  | 
+| Towards Diverse and Natural Image Descriptions via a Conditional GAN | _11 Aug 2017_ | [arxiv](https://arxiv.org/pdf/1703.06029) |  | 
+| Temporal Tessellation: A Unified Approach for Video Analysis | _14 Apr 2017_ | [arxiv](https://arxiv.org/pdf/1612.06950) | [github](https://github.com/dot27/temporal-tessellation) | 
+| Deep Reinforcement Learning-based Image Captioning with Embedding Reward | _12 Apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03899) |  | 
+| Long-term Recurrent Convolutional Networks for Visual Recognition and Description | _31 May 2016_ | [arxiv](https://arxiv.org/pdf/1411.4389) | -- | 
+| Show, Attend and Tell: Neural Image Caption Generation with Visual Attention | _19 Apr 2016_ | [arxiv](https://arxiv.org/pdf/1502.03044) |  | 
+| Generation and Comprehension of Unambiguous Object Descriptions | _11 Apr 2016_ | [arxiv](https://arxiv.org/pdf/1511.02283) |  | 
+
+
 ### Image Synthesis
 
 ### 3D Reconstruction
