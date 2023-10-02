@@ -63,8 +63,13 @@ This repository contains a collection of deep learning papers, organized by task
 | TPH-YOLOv5 : Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-captured Scenarios | _26 Aug 2021_ | [arxiv](https://arxiv.org/pdf/2108.11539.pdf) | -- |
 | YOLOv4 : Optimal Speed and Accuracy of Object Detection | _23 Apr 2020_ | [arxiv](https://arxiv.org/pdf/2004.10934.pdf) | -- |
 | YOLOv3 : An Incremental Improvement | _8 Apr 2018_ | [arxiv](https://arxiv.org/pdf/1804.02767.pdf) | -- |
+| Mask R-CNN | _24 Jan 2018_ | [arxiv](https://arxiv.org/pdf/1703.06870.pdf) | -- |
+| SSD : SingleShotMultiBoxDetector | _29 Dec 2016_ | [arxiv](https://arxiv.org/pdf/1512.02325.pdf) | -- |
 | YOLO9000 : Better, Faster, Stronger (YOLO_v2) | _25 Dec 2016_ | [arxiv](https://arxiv.org/pdf/1612.08242.pdf) | -- |
 | You Only Look Once : Unified, Real-Time Object Detection (YOLO_v1) | _9 Apr 2016_ | [arxiv](https://arxiv.org/pdf/1506.02640.pdf) | -- |
+| FasterR-CNN : TowardsReal-TimeObject DetectionwithRegionProposalNetworks | _6 Jan 2016_ | [arxiv](https://arxiv.org/pdf/1506.01497.pdf) | -- |
+| Fast R-CNN | _27 Sep 2015_ | [arxiv](https://arxiv.org/pdf/1504.08083.pdf) | -- |
+| Rich feature hierarchies for accurate object detection and semantic segmentation (R-CNN) | _22 Oct 2014_ | [arxiv](https://arxiv.org/pdf/1311.2524.pdf) | -- |
 
 ### Style Transfer
 
