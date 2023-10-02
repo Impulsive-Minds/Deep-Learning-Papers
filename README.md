@@ -117,6 +117,13 @@ This repository contains a collection of deep learning papers, organized by task
 
 ### Pose Estimation
 
+| Title | Date | Paper | Code |
+|---|---|---|---|
+| Forecasting Human Dynamics from Static Images | _11 Apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03432.pdf) | -- |
+| Fast Single Shot Detection and Pose Estimation | _19 Sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.05590.pdf) | -- |
+| Convolutional Pose Machines | _12 Apr 2016_ | [arxiv](https://arxiv.org/pdf/1602.00134.pdf) | -- |
+| Flowing ConvNets for Human Pose Estimation in Videos | _08 Nov 2015_ | [arxiv](https://arxiv.org/pdf/1506.02897.pdf) | -- |
+
 ### Vision Representation
 
 ### Depth Perception
