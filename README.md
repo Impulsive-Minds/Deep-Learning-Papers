@@ -127,6 +127,10 @@ This repository contains a collection of deep learning papers, organized by task
 
 ### 3D Reconstruction
 
+| Title | Date | Paper | Code |
+|---|---|---|---|
+| Cerberus: A Multi-headed Derenderer | _28 May 2019_ | [arxiv](https://arxiv.org/pdf/1905.11940.pdf) | -- |
+
 ## Natural Language Processing (NLP)
 
 ## Audio
