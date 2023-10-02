@@ -91,6 +91,25 @@ This repository contains a collection of deep learning papers, organized by task
 
 ### Image Segmentation
 
+| Title | Date | Paper | Code |
+|---|---|---|---|
+| PointRend: Image Segmentation as Rendering | _16 Feb 2020_ | [arxiv](https://arxiv.org/pdf/1912.08193.pdf) | -- |
+| Mask R-CNN | _24 Jan 2018_ | [arxiv](https://arxiv.org/pdf/1703.06870.pdf) | -- |
+| DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs | _12 May 2017_ | [arxiv](https://arxiv.org/pdf/1606.00915.pdf) | -- |
+| SfM-Net: Learning of Structure and Motion from Video | _25 Apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.07804.pdf) | -- |
+| Learning Features by Watching Objects Move | _12 Apr 2017_ | [arxiv](https://arxiv.org/pdf/1612.06370.pdf) | -- |
+| Semi and Weakly Supervised Semantic Segmentation Using Generative Adversarial Network | _28 Mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.09695.pdf) | -- |
+| RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation | _25 Nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.06612.pdf) | -- |
+| SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation | _10 Oct 2016_ | [arxiv](https://arxiv.org/pdf/1511.00561.pdf) | -- |
+| UberNet : Training a 'Universal' Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory | _07 Sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.02132.pdf) | -- |
+| Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs | _07 June 2016_ | [arxiv](https://arxiv.org/pdf/1412.7062.pdf) | -- |
+| Fully Convolutional Networks for Semantic Segmentation | _20 May 2016_ | [arxiv](https://arxiv.org/pdf/1605.06211.pdf) | -- |
+| Multi-Scale Context Aggregation by Dilated Convolutions | _30 Apr 2016_ | [arxiv](https://arxiv.org/pdf/1511.07122.pdf) | -- |
+| Instance-aware Semantic Segmentation via Multi-task Network Cascades | _14 Dec 2015_ | [arxiv]https://arxiv.org/pdf/1512.04412.pdf) | -- |
+| U-Net: Convolutional Networks for Biomedical Image Segmentation | _18 May 2015_ | [arxiv](https://arxiv.org/pdf/1505.04597.pdf) | -- |
+| Learning Rich Features from RGB-D Images for Object Detection and Segmentation | _22 July 2014_ | [arxiv](https://arxiv.org/pdf/1407.5736.pdf) | -- |
+
+
 ### Pose Estimation
 
 ### Vision Representation
