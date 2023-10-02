@@ -99,3 +99,7 @@ This repository contains a collection of deep learning papers, organized by task
 ## Audio
 
 ## Miscellaneous
+
+| Title | Date | Paper | Code |
+|---|---|---|---|
+| Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift | _02 Mar 2015_ | [arxiv](https://arxiv.org/pdf/1502.03167.pdf) | -- |
