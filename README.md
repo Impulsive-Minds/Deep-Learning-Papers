@@ -152,8 +152,19 @@ This repository contains a collection of deep learning papers, organized by task
 | Show, Attend and Tell: Neural Image Caption Generation with Visual Attention | _19 Apr 2016_ | [arxiv](https://arxiv.org/pdf/1502.03044) |  | 
 | Generation and Comprehension of Unambiguous Object Descriptions | _11 Apr 2016_ | [arxiv](https://arxiv.org/pdf/1511.02283) |  | 
 
-
 ### Image Synthesis
+
+|Title|Date|Paper|Code|
+|---|---|---|---|
+| Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks | _24 Aug 2020_ | [arxiv](https://arxiv.org/pdf/1703.10593) | [github](https://github.com/junyanz/CycleGAN) | 
+| Improved Training of Wasserstein GANs | _25 Dec 2017_ | [arxiv](https://arxiv.org/pdf/1704.00028) |  | 
+| Wasserstein GAN | _06 Dec 2017_ | [arxiv](https://arxiv.org/pdf/1701.07875) |  | 
+| BEGAN: Boundary Equilibrium Generative Adversarial Networks | _31 Mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.10717) | [github](https://github.com/carpedm20/BEGAN-tensorflow) | 
+| A Neural Representation of Sketch Drawings | _19 May 2017_ | [arxiv](https://arxiv.org/pdf/1704.03477) |  | 
+| Pixel Recurrent Neural Networks | _19 Aug 2016_ | [arxiv](https://arxiv.org/pdf/1601.06759) |  | 
+| Conditional Image Generation with PixelCNN Decoders | _18 June 2016_ | [arxiv](https://arxiv.org/pdf/1606.05328) |  | 
+| RenderGAN: Generating Realistic Labeled Data | _12 Jan 2016_ | [arxiv](https://arxiv.org/pdf/1611.01331) |  | 
+| Generative Adversarial Nets | _10 June 2014_ | [arxiv](https://arxiv.org/pdf/1406.2661) |  | 
 
 ### 3D Reconstruction
 
