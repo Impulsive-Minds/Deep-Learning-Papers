@@ -110,7 +110,7 @@ This repository contains a collection of deep learning papers, organized by task
 | Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs | _07 June 2016_ | [arxiv](https://arxiv.org/pdf/1412.7062.pdf) | -- |
 | Fully Convolutional Networks for Semantic Segmentation | _20 May 2016_ | [arxiv](https://arxiv.org/pdf/1605.06211.pdf) | -- |
 | Multi-Scale Context Aggregation by Dilated Convolutions | _30 Apr 2016_ | [arxiv](https://arxiv.org/pdf/1511.07122.pdf) | -- |
-| Instance-aware Semantic Segmentation via Multi-task Network Cascades | _14 Dec 2015_ | [arxiv]https://arxiv.org/pdf/1512.04412.pdf) | -- |
+| Instance-aware Semantic Segmentation via Multi-task Network Cascades | _14 Dec 2015_ | [arxiv](https://arxiv.org/pdf/1512.04412.pdf) | -- |
 | U-Net: Convolutional Networks for Biomedical Image Segmentation | _18 May 2015_ | [arxiv](https://arxiv.org/pdf/1505.04597.pdf) | -- |
 | Learning Rich Features from RGB-D Images for Object Detection and Segmentation | _22 July 2014_ | [arxiv](https://arxiv.org/pdf/1407.5736.pdf) | -- |
 
