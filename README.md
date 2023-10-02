@@ -85,6 +85,15 @@ This repository contains a collection of deep learning papers, organized by task
 
 ### Super Resolution
 
+| Title | Date | Paper | Code |
+|---|---|---|---|
+| Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network | _23 Sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.05158.pdf) | -- |
+| Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network | _25 May 2017_ | [arxiv](https://arxiv.org/pdf/1609.04802.pdf) | -- |
+| RAISR: Rapid and Accurate Image Super Resolution | _04 Oct 2016_ | [arxiv](https://arxiv.org/pdf/1606.01299.pdf) | -- |
+| Perceptual Losses for Real-Time Style Transfer and Super-Resolution | _27 Mar 2016_ | [arxiv](https://arxiv.org/pdf/1603.08155.pdf) | -- |
+| Image Super-Resolution Using Deep Convolutional Networks | _31 July 2015_| [arxiv](https://arxiv.org/pdf/1501.00092.pdf) | -- |
+
+
 ### Image Segmentation
 
 ### Pose Estimation
