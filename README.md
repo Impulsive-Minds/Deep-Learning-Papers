@@ -126,7 +126,13 @@ This repository contains a collection of deep learning papers, organized by task
 
 ### Vision Representation
 
+
 ### Depth Perception
+
+| Title | Date | Paper | Code |
+|---|---|---|---|
+| Learning Depth with Convolutional Spatial Propagation Network | _04 Oct 2019_ | [arxiv](https://arxiv.org/pdf/1810.02695.pdf) | -- |
+| Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches | _18 May 2016_ | [arxiv](https://arxiv.org/pdf/1510.05970.pdf) | -- |
 
 ### Image Captioning
 
