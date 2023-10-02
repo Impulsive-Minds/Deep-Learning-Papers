@@ -40,10 +40,10 @@ This repository contains a collection of deep learning papers, organized by task
 
 | Title | Date | Paper | Code |
 |---|---|---|---|
-| EfficientNet:Rethinking Model Scaling for Convolutional Neural Networks | _11 Sep 2020_ | [arxiv](https://arxiv.org/pdf/1905.11946.pdf) | -- |
-| MobileNetV2 :Inverted Residuals and Linear Bottlenecks | _21 Mar 2019_ | [arxiv](https://arxiv.org/pdf/1801.04381.pdf) | -- |
-| MobileNets:Efficient Convolutional Neural Networks for Mobile Vision Applications (MobileNet_v1) | _17 Apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.04861.pdf) | -- |
-| DeepResidualLearningforImageRecognition (ResNet) | _10 Dec 2015_ | [arxiv](https://arxiv.org/pdf/1512.03385.pdf) | -- |
+| EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks | _11 Sep 2020_ | [arxiv](https://arxiv.org/pdf/1905.11946.pdf) | -- |
+| MobileNetV2 : Inverted Residuals and Linear Bottlenecks | _21 Mar 2019_ | [arxiv](https://arxiv.org/pdf/1801.04381.pdf) | -- |
+| MobileNets : Efficient Convolutional Neural Networks for Mobile Vision Applications (MobileNet_v1) | _17 Apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.04861.pdf) | -- |
+| Deep Residual Learning for Image Recognition (ResNet) | _10 Dec 2015_ | [arxiv](https://arxiv.org/pdf/1512.03385.pdf) | -- |
 | Very Deep Convolutional Networks For Large-Scale Image Recognition (VGG) | _10 Apr 2015_ | [arxiv](https://arxiv.org/pdf/1409.1556.pdf) | -- |
 | Goingdeeperwithconvolutions (GoogLeNet) | _17 Sep 2014_ | [arxiv](https://arxiv.org/pdf/1409.4842.pdf) | -- |
 | VisualizingandUnderstandingConvolutionalNetworks (ZFNet) | _28 Nov 2013_ | [arxiv](https://arxiv.org/pdf/1311.2901.pdf) | -- |
