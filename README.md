@@ -150,29 +150,29 @@ This repository contains a collection of deep learning papers, organized by task
 
 |Title|Date|Paper|Code|
 |---|---|---|---|
-| Detecting and Recognizing Human-Object Interactions | _27 Mar 2018_ | [arxiv](https://arxiv.org/pdf/1704.07333) |  | 
-| Actor-Critic Sequence Training for Image Captioning | _28 Nov 2017_ | [arxiv](https://arxiv.org/pdf/1706.09601) |  | 
-| Self-critical Sequence Training for Image Captioning | _16 Nov 2017_ | [arxiv](https://arxiv.org/pdf/1612.00563) |  | 
-| Towards Diverse and Natural Image Descriptions via a Conditional GAN | _11 Aug 2017_ | [arxiv](https://arxiv.org/pdf/1703.06029) |  | 
-| Temporal Tessellation: A Unified Approach for Video Analysis | _14 Apr 2017_ | [arxiv](https://arxiv.org/pdf/1612.06950) | [github](https://github.com/dot27/temporal-tessellation) | 
-| Deep Reinforcement Learning-based Image Captioning with Embedding Reward | _12 Apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03899) |  | 
+| Detecting and Recognizing Human-Object Interactions | _27 Mar 2018_ | [arxiv](https://arxiv.org/pdf/1704.07333) | -- | 
+| Actor-Critic Sequence Training for Image Captioning | _28 Nov 2017_ | [arxiv](https://arxiv.org/pdf/1706.09601) | -- | 
+| Self-critical Sequence Training for Image Captioning | _16 Nov 2017_ | [arxiv](https://arxiv.org/pdf/1612.00563) | -- | 
+| Towards Diverse and Natural Image Descriptions via a Conditional GAN | _11 Aug 2017_ | [arxiv](https://arxiv.org/pdf/1703.06029) | -- | 
+| Temporal Tessellation: A Unified Approach for Video Analysis | _14 Apr 2017_ | [arxiv](https://arxiv.org/pdf/1612.06950) | -- | 
+| Deep Reinforcement Learning-based Image Captioning with Embedding Reward | _12 Apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03899) | -- | 
 | Long-term Recurrent Convolutional Networks for Visual Recognition and Description | _31 May 2016_ | [arxiv](https://arxiv.org/pdf/1411.4389) | -- | 
-| Show, Attend and Tell: Neural Image Caption Generation with Visual Attention | _19 Apr 2016_ | [arxiv](https://arxiv.org/pdf/1502.03044) |  | 
-| Generation and Comprehension of Unambiguous Object Descriptions | _11 Apr 2016_ | [arxiv](https://arxiv.org/pdf/1511.02283) |  | 
+| Show, Attend and Tell: Neural Image Caption Generation with Visual Attention | _19 Apr 2016_ | [arxiv](https://arxiv.org/pdf/1502.03044) | -- | 
+| Generation and Comprehension of Unambiguous Object Descriptions | _11 Apr 2016_ | [arxiv](https://arxiv.org/pdf/1511.02283) | -- | 
 
 ### Image Synthesis
 
 |Title|Date|Paper|Code|
 |---|---|---|---|
-| Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks | _24 Aug 2020_ | [arxiv](https://arxiv.org/pdf/1703.10593) | [github](https://github.com/junyanz/CycleGAN) | 
-| Improved Training of Wasserstein GANs | _25 Dec 2017_ | [arxiv](https://arxiv.org/pdf/1704.00028) |  | 
+| Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks | _24 Aug 2020_ | [arxiv](https://arxiv.org/pdf/1703.10593) | -- | 
+| Improved Training of Wasserstein GANs | _25 Dec 2017_ | [arxiv](https://arxiv.org/pdf/1704.00028) | -- | 
 | Wasserstein GAN | _06 Dec 2017_ | [arxiv](https://arxiv.org/pdf/1701.07875) |  | 
-| BEGAN: Boundary Equilibrium Generative Adversarial Networks | _31 Mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.10717) | [github](https://github.com/carpedm20/BEGAN-tensorflow) | 
-| A Neural Representation of Sketch Drawings | _19 May 2017_ | [arxiv](https://arxiv.org/pdf/1704.03477) |  | 
-| Pixel Recurrent Neural Networks | _19 Aug 2016_ | [arxiv](https://arxiv.org/pdf/1601.06759) |  | 
-| Conditional Image Generation with PixelCNN Decoders | _18 June 2016_ | [arxiv](https://arxiv.org/pdf/1606.05328) |  | 
-| RenderGAN: Generating Realistic Labeled Data | _12 Jan 2016_ | [arxiv](https://arxiv.org/pdf/1611.01331) |  | 
-| Generative Adversarial Nets | _10 June 2014_ | [arxiv](https://arxiv.org/pdf/1406.2661) |  | 
+| BEGAN: Boundary Equilibrium Generative Adversarial Networks | _31 Mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.10717) | -- | 
+| A Neural Representation of Sketch Drawings | _19 May 2017_ | [arxiv](https://arxiv.org/pdf/1704.03477) | -- | 
+| Pixel Recurrent Neural Networks | _19 Aug 2016_ | [arxiv](https://arxiv.org/pdf/1601.06759) | -- | 
+| Conditional Image Generation with PixelCNN Decoders | _18 June 2016_ | [arxiv](https://arxiv.org/pdf/1606.05328) | -- | 
+| RenderGAN: Generating Realistic Labeled Data | _12 Jan 2016_ | [arxiv](https://arxiv.org/pdf/1611.01331) | -- | 
+| Generative Adversarial Nets | _10 June 2014_ | [arxiv](https://arxiv.org/pdf/1406.2661) | -- | 
 
 ### 3D Reconstruction
 
@@ -199,12 +199,12 @@ This repository contains a collection of deep learning papers, organized by task
 
 |Title|Date|Paper|Code|
 |---|---|---|---|
-| Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation | _21 Aug 2017_ | [arxiv](https://arxiv.org/pdf/1611.04558) |  | 
-| Convolutional Sequence to Sequence Learning | _25 July 2017_ | [arxiv](https://arxiv.org/pdf/1705.03122) | [github](https://github.com/facebookresearch/fairseq) | 
-| Attention Is All You Need | _12 June 2017_ | [arxiv](https://arxiv.org/pdf/1706.03762) |  | 
-| A Convolutional Encoder Model for Neural Machine Translation | _25 July 2017_ | [arxiv](https://arxiv.org/pdf/1611.02344) |  | 
-| Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation | _08 Oct 2016_ | [arxiv](https://arxiv.org/pdf/1609.08144) |  | 
-| Neural Machine Translation by Jointly Learning to Align and Translate | _19 May 2016_ | [arxiv](https://arxiv.org/pdf/1409.0473) |  |
+| Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation | _21 Aug 2017_ | [arxiv](https://arxiv.org/pdf/1611.04558) | -- | 
+| Convolutional Sequence to Sequence Learning | _25 July 2017_ | [arxiv](https://arxiv.org/pdf/1705.03122) | -- | 
+| Attention Is All You Need | _12 June 2017_ | [arxiv](https://arxiv.org/pdf/1706.03762) | -- | 
+| A Convolutional Encoder Model for Neural Machine Translation | _25 July 2017_ | [arxiv](https://arxiv.org/pdf/1611.02344) | -- | 
+| Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation | _08 Oct 2016_ | [arxiv](https://arxiv.org/pdf/1609.08144) | -- | 
+| Neural Machine Translation by Jointly Learning to Align and Translate | _19 May 2016_ | [arxiv](https://arxiv.org/pdf/1409.0473) | -- |
 
 ### Text Summarization
 
