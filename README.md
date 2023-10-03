@@ -45,7 +45,7 @@ This repository contains a collection of deep learning papers, organized by task
     2.6. [Translation](#translation)
 
     2.7. [Text Summarization](#text-summarization)
-    
+
 3. [Audio](#audio)
 4. [Miscellaneous](#miscellaneous)
 
@@ -212,6 +212,7 @@ This repository contains a collection of deep learning papers, organized by task
 
 |Title|Date|Paper|Code|
 |---|---|---|---|
+| IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models | _22 Feb 2018_ | [arxiv](https://arxiv.org/pdf/1705.10513) | -- | 
 
 
 ### Translation
@@ -226,6 +227,12 @@ This repository contains a collection of deep learning papers, organized by task
 | Neural Machine Translation by Jointly Learning to Align and Translate | _19 May 2016_ | [arxiv](https://arxiv.org/pdf/1409.0473) | -- |
 
 ### Text Summarization
+
+|Title|Date|Paper|Code|
+|---|---|---|---|
+| A Deep Reinforced Model for Abstractive Summarization | _13 Nov 2017_ | [arxiv](https://arxiv.org/pdf/1705.04304) |  | 
+| Get To The Point: Summarization with Pointer-Generator Networks | _25 Apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.04368) |  | 
+| SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents | _14 Nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.04230) |  | 
 
 ## Audio
 
