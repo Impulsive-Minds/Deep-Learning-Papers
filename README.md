@@ -182,6 +182,32 @@ This repository contains a collection of deep learning papers, organized by task
 
 ## Natural Language Processing (NLP)
 
+### Classification
+
+|Title|Date|Paper|Code|
+|---|---|---|---|
+
+### Sentiment Analysis
+
+### Language Representation
+
+### Bots
+
+### Question Answering
+
+### Translation
+
+|Title|Date|Paper|Code|
+|---|---|---|---|
+| Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation | _21 Aug 2017_ | [arxiv](https://arxiv.org/pdf/1611.04558) |  | 
+| Convolutional Sequence to Sequence Learning | _25 July 2017_ | [arxiv](https://arxiv.org/pdf/1705.03122) | [github](https://github.com/facebookresearch/fairseq) | 
+| Attention Is All You Need | _12 June 2017_ | [arxiv](https://arxiv.org/pdf/1706.03762) |  | 
+| A Convolutional Encoder Model for Neural Machine Translation | _25 July 2017_ | [arxiv](https://arxiv.org/pdf/1611.02344) |  | 
+| Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation | _08 Oct 2016_ | [arxiv](https://arxiv.org/pdf/1609.08144) |  | 
+| Neural Machine Translation by Jointly Learning to Align and Translate | _19 May 2016_ | [arxiv](https://arxiv.org/pdf/1409.0473) |  |
+
+### Text Summarization
+
 ## Audio
 
 ## Miscellaneous
