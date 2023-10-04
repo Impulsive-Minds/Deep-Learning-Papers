@@ -233,14 +233,17 @@ This repository contains a collection of deep learning papers, organized by task
 ## Audio
 |Title|Date|Paper|Code|
 |---|---|---|---|
-| Deep Cross-Modal Audio-Visual Generation | _26 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.08292) | --- | 
-| A Neural Parametric Singing Synthesizer | _17 aug 2017_ | [arxiv](https://arxiv.org/pdf/1704.03809) | --- | 
+| Deep Cross-Modal Audio-Visual Generation | _26 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.08292) | -- | 
+| A Neural Parametric Singing Synthesizer | _17 aug 2017_ | [arxiv](https://arxiv.org/pdf/1704.03809) | -- | 
 | Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders | _5 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.01279) | --- | 
-| Tacotron: Towards End-to-End Speech Synthesis | _6 apr 2017_ | [arxiv](https://arxiv.org/pdf/1703.10135) | --- | 
-| Deep Voice: Real-time Neural Text-to-Speech | _7 mar 2017_ | [arxiv](https://arxiv.org/pdf/1702.07825) | --- | 
-| WaveNet: A Generative Model for Raw Audio | _19 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.03499) | --- | 
+| Tacotron: Towards End-to-End Speech Synthesis | _6 apr 2017_ | [arxiv](https://arxiv.org/pdf/1703.10135) | -- | 
+| Deep Voice: Real-time Neural Text-to-Speech | _7 mar 2017_ | [arxiv](https://arxiv.org/pdf/1702.07825) | -- | 
+| WaveNet: A Generative Model for Raw Audio | _19 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.03499) | -- | 
 ## Miscellaneous
 
 | Title | Date | Paper | Code |
 |---|---|---|---|
+| Self-Normalizing Neural Networks | _7 sep 2017_ | [arxiv](https://arxiv.org/pdf/1706.02515) | -- | 
+| Concrete Dropout | _22 may 2017_ | [arxiv](https://arxiv.org/pdf/1705.07832) | -- | 
+| Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning | _4 oct 2016_ | [arxiv](https://arxiv.org/pdf/1506.02142) | -- |
 | Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift | _02 Mar 2015_ | [arxiv](https://arxiv.org/pdf/1502.03167.pdf) | -- |
