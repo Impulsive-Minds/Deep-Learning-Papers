@@ -48,6 +48,7 @@ This repository contains a collection of deep learning papers, organized by task
 4. [Miscellaneous](#miscellaneous)
 
     2.1 [Regularization](#regularization)
+
     2.2 [Optimizers](#optimizers)
 
 ## Computer Vision
@@ -264,4 +265,4 @@ This repository contains a collection of deep learning papers, organized by task
 | Deep learning with Elastic Averaging SGD | _25 oct 2015_ | [arxiv](https://arxiv.org/pdf/1412.6651) |  | 
 | ADADELTA: An Adaptive Learning Rate Method | _22 dec 2012_ | [arxiv](https://arxiv.org/pdf/1212.5701) |  | 
 | Advances in Optimizing Recurrent Networks | _14 dec 2012_ | [arxiv](https://arxiv.org/pdf/1212.0901) |  | 
-| Efficient Backprop | _1 jul 1998_ | [paper]https://cseweb.ucsd.edu/classes/wi08/cse253/Handouts/lecun-98b.pdf |  | 
+| Efficient Backprop | _1 jul 1998_ | [paper](https://cseweb.ucsd.edu/classes/wi08/cse253/Handouts/lecun-98b.pdf) |  | 
