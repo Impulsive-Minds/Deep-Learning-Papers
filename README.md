@@ -34,17 +34,15 @@ This repository contains a collection of deep learning papers, organized by task
 
     2.1. [Classification](#classification)
 
-    2.2. [Sentiment Analysis](#sentiment-analysis)
+    2.2. [Language Representation](#language-representation)
 
-    2.3. [Language Representation](#language-representation)
+    2.3. [Bots](#bots)
 
-    2.4. [Bots](#bots)
+    2.4. [Question Answering](#question-answering)
 
-    2.5. [Question Answering](#question-answering)
+    2.5. [Translation](#translation)
 
-    2.6. [Translation](#translation)
-
-    2.7. [Text Summarization](#text-summarization)
+    2.6. [Text Summarization](#text-summarization)
 
 3. [Audio](#audio)
 4. [Miscellaneous](#miscellaneous)
@@ -201,8 +199,6 @@ This repository contains a collection of deep learning papers, organized by task
 
 |Title|Date|Paper|Code|
 |---|---|---|---|
-
-### Sentiment Analysis
 
 ### Language Representation
 
