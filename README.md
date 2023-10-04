@@ -232,6 +232,7 @@ This repository contains a collection of deep learning papers, organized by task
 
 ## Audio
 |Title|Date|Paper|Code|
+|---|---|---|---|
 | Deep Cross-Modal Audio-Visual Generation | _26 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.08292) | --- | 
 | A Neural Parametric Singing Synthesizer | _12 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03809) | --- | 
 | Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders | _5 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.01279) | --- | 
