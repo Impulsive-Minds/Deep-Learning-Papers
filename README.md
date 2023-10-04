@@ -231,7 +231,13 @@ This repository contains a collection of deep learning papers, organized by task
 | SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents | _14 Nov 2016_ | [arxiv](https://arxiv.org/pdf/1611.04230) |  | 
 
 ## Audio
-
+|Title|Date|Paper|Code|
+| Deep Cross-Modal Audio-Visual Generation | _26 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.08292) | --- | 
+| A Neural Parametric Singing Synthesizer | _12 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.03809) | --- | 
+| Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders | _5 apr 2017_ | [arxiv](https://arxiv.org/pdf/1704.01279) | --- | 
+| Tacotron: Towards End-to-End Speech Synthesis | _29 mar 2017_ | [arxiv](https://arxiv.org/pdf/1703.10135) | --- | 
+| Deep Voice: Real-time Neural Text-to-Speech | _25 feb 2017_ | [arxiv](https://arxiv.org/pdf/1702.07825) | --- | 
+| WaveNet: A Generative Model for Raw Audio | _19 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.03499) | --- | 
 ## Miscellaneous
 
 | Title | Date | Paper | Code |
