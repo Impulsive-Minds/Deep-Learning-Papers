@@ -47,6 +47,9 @@ This repository contains a collection of deep learning papers, organized by task
 3. [Audio](#audio)
 4. [Miscellaneous](#miscellaneous)
 
+    2.1 [Regularization](#regularization)
+    2.2 [Optimizers](#optimizers)
+
 ## Computer Vision
 
 ### Image Classification
@@ -241,9 +244,23 @@ This repository contains a collection of deep learning papers, organized by task
 | WaveNet: A Generative Model for Raw Audio | _19 sep 2016_ | [arxiv](https://arxiv.org/pdf/1609.03499) | -- | 
 ## Miscellaneous
 
+### Regularization
+
 | Title | Date | Paper | Code |
 |---|---|---|---|
 | Self-Normalizing Neural Networks | _7 sep 2017_ | [arxiv](https://arxiv.org/pdf/1706.02515) | -- | 
 | Concrete Dropout | _22 may 2017_ | [arxiv](https://arxiv.org/pdf/1705.07832) | -- | 
 | Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning | _4 oct 2016_ | [arxiv](https://arxiv.org/pdf/1506.02142) | -- |
 | Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift | _02 Mar 2015_ | [arxiv](https://arxiv.org/pdf/1502.03167.pdf) | -- |
+
+### Optimizers
+
+| Title | Date | Paper | Code |
+|---|---|---|---|
+| Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour | _30 apr 2018_ | [arxiv](https://arxiv.org/pdf/1706.02677) |  | 
+| Equilibrated adaptive learning rates for non-convex optimization | _29 aug 2015_ | [arxiv](https://arxiv.org/pdf/1502.04390) |  | 
+| Adam: A Method for Stochastic Optimization | _30 jan 2017_ | [arxiv](https://arxiv.org/pdf/1412.6980) |  | 
+| Deep learning with Elastic Averaging SGD | _25 oct 2015_ | [arxiv](https://arxiv.org/pdf/1412.6651) |  | 
+| ADADELTA: An Adaptive Learning Rate Method | _22 dec 2012_ | [arxiv](https://arxiv.org/pdf/1212.5701) |  | 
+| Advances in Optimizing Recurrent Networks | _14 dec 2012_ | [arxiv](https://arxiv.org/pdf/1212.0901) |  | 
+| Efficient Backprop | _1 jul 1998_ | [paper]https://cseweb.ucsd.edu/classes/wi08/cse253/Handouts/lecun-98b.pdf |  | 
